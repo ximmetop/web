@@ -1,69 +1,64 @@
+html
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>twenty one pilots
-    </title>
-    <style>
-        body { #los tueniss
-  
-   <h1>hoy hablaremos de twenty one pilots y su creacion </h1>
-   
-hablaremos de twenty one pilots el cual es una banda conocida y postearemos el por que son solo dos si se llaman 21 pilots
-Twenty One Pilots (estilizado como twenty øne piløts) es un dúo musical estadounidense cuyo estilo combina el hiphop, el metal y el rock independiente.
-Después de distintos cambios de alineación en sus orígenes, está formado desde 2011 por Tyler Joseph y Josh Dun.
- Tyler Joseph y Dun se criaron en Columbus, Ohio, en familias cristianas muy conservadoras. Cuando se conocieron en secundaria y se hicieron amigos descubrieron que a ambos les fascinaba el punk y el metal, que no podían escuchar en sus respectivos hogares. Comenzaron a tocar en el sótano de la casa de Tyler Joseph, donde sus padres le permitieron instalar una batería y un viejo teclado.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5SYZq8n6Q0?si=8LN9e9cg1ejhcWfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
- 
-Inicalmente, la banda tocó en clubes y pequeñas salas del área de Columbus, además de participar en concursos locales de bandas. Para llamar atención del público, empezaron a actuar disfrazados con máscaras o a realizar acrobacias en el escenario 
-La banda lanzó de forma independiente dos álbumes, Twenty One Pilots (2009) y Regional at Best (2011), antes de firmar con el sello discográfico Fueled by Ramen en 2012. Su debut en el sello, Vessel , fue lanzado en 2013 y se convirtió en el segundo álbum de la historia. en el que cada pista recibió al menos una certificación de oro, convirtiendo a Twenty One Pilots en la primera banda en la historia de la música en ver cada canción en dos álbumes ganar premios de oro o platino.
-Este éxito se multiplicó con su cuarto álbum, Blurryface (2015). A este le siguió Trench (2018) y Scaled and Icy , lanzado el 21 de mayo de 2021.
-tml
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011.​ Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
-Origen: Columbus
-Género(s): hip hop alternativo; electropop; rock alternativo; rap rock; indie pop; pop rock​;
-Es difícil categorizar a la banda usando solamente un género, ya que encajan dentro de varios. Se ha atribuido esto parcialmente al hecho de que, tanto Joseph como Dun, son músicos autodidactas, lo que implica que mientras producen su trabajo rompen muchas convenciones musicales de las que no son conscientes, incluyendo estar confinado a un único género.
-Instrumentalmente, Twenty One Pilots tiene una mezcla de piano (algunas veces un teclado eléctrico o una keytar), sintetizadores, batería (también mezclada con batería eléctrica en algunas partes), voz y ocasionalmente ukelele, trompetas, pandero o bajo. Líricamente, sus canciones son escritas por Joseph, quién incorpora tanto rap como canto en sus letras. El periodista de música Carl Wilson ha notado que el rap de Joseph es comparado a menudo con el de Macklemore, pero escribió: «entre los raperos blancos después de Eminem, encuentro a Joseph más penetrante, sardónico y expresivo». Joseph ha dicho que nunca pretendía ser rapero, pero que al intentar encajar poesía, sobre todo cuando es demasiado larga, necesita empezar a rapear para hacer encajar las letras.
-Empezó en: 2009
-Discográfica(s): Fueled by Ramen; Elektra; Atlantic
-
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>los 21 pilotos </title>
+    <title>Fondo de Color</title>
     <style>
         body {
-            margin: 2;
-            height: 100vh;
-            background: linear-gradient(to bottom, yellow, red);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Roboto', sans-serif;
-            color: black; /* Color del texto */
-            text-align: center;
-        }
-        h1 {
-            font-size: 3em;
-            font-weight: 700; /* Negrita */
-        }
-        p {
-            font-size: 1.5em;
-            font-weight: 400; /* Normal */
+            background: linear-gradient(to bottom, yellow, lightcoral);
+            /* El color amarillo se gradúa hacia el rojo claro (lightcoral) */
         }
     </style>
 </head>
 <body>
-    <div>
-        <h1>twenty one pilots</h1>
-        <p> conoceremos a twenty one pilots!</p>
-    </div>
+    <h1>¡twenty one pilots!</h1>
+    <p> Twenty Øne Pilots empezó hace 12 años Como bien saben –sino acá les contamos–, Twenty Øne Pilots es una agrupación que se formó en la ciudad estadounidense de Columbus, en Ohio, por allá del año 2009. La banda comenzó formalmente como un trío conformado por Tyler Joseph, Nick Thomas y Chris Salih, estudiantes universitarios que comenzaron a buscar patrocinios y lugares donde pudieran tocar para darse a conocer.
+
+Aunque a finales de ese mismo año Twenty Øne Pilots (conocidos como TØP, por sus siglas en inglés) lanzó un disco debut homónimo, fue hasta el año 2011 cuando la alineación cambió radicalmente con la salida de Nick y Chris, quienes le dejaron el paso libre a Josh Dun, el baterista de la banda e inseparable amigo de Tyler Joseph.
+
+¿Lo sabían? Esta es la historia detrás del nombre de Twenty Øne Pilots
+Y su nombre toma inspiración de una obra de teatro
+A pesar de los cambios en su alineación, el nombre de Twenty Øne Pilots siempre quedó intacto. Y es justamente ese el tema que tocaremos hoy, pues la inspiración detrás del nombre es una obra de teatro bastante famosa que se ambienta en la Segunda Guerra Mundial. Una historia que, irónicamente, muchos aún no conocen.
+
+El nombre de la banda fue escogido por el mismo Tyler, quien se inspiró al leer una obra de teatro titulada All My Sons, de Arthur Miller. La obra narra la historia de Joe Keller, un padre de familia que durante la época de la Segunda Guerra Mundial se dedicó a vender piezas incompletas o defectuosas que se destinaban a la fabricación de aviones de guerra. 
+
+“All My Sons” es un recordatorio para el propósito de Tyler y Josh en la banda
+Si bien el señor Keller hace sus ventas con tal de procurar el bienestar de su familia, todo cambia cuando se da a conocer que durante la guerra sus piezas defectuosas fueron las responsables de que varios aviones se estrellaran, lo cual trae como consecuencia la muerte de 21 pilotos estadounidenses. Esto inevitablemente comienza a traerle a Joe problemas en su familia.
+
+Al final de la obra (no se las vamos a spoilear tanto), el señor Keller toma una decisión bastante dura con la que trata de eliminar el dolor y sufrimiento que le causó a su familia –en especial a uno de sus hijos– con la venta de las piezas de avión defectuosas, delito del que logra escapar ante la justicia, pero no de la decepción de sus seres queridos.
+
+¿Lo sabían? Esta es la historia detrás del nombre de Twenty Øne Pilots
+Así como el nunca olvidar tomar buenas decisiones en la vida, por más difíciles que sean
+Es importante recalcar esta especie de lección en la obra, pues básicamente esa la base de todo lo que hace Twenty Øne Pilots. Y es que para Tyler Joseph, la obra de Arthur Miller refleja a la perfección cómo las decisiones del día a día pueden traer consecuencias morales a una persona, lo cual a su vez es un recordatorio de siempre hacer lo correcto.
+
+“A veces, la decisión correcta puede no ser la que te beneficia en este momento, puede ser la decisión más difícil, puede ser la decisión que requiere más trabajo”, comentó Tyler Joseph en una entrevista con el sitio Under The Gun Review. “Básicamente, todos somos responsables de la preservación de nuestro gozo personal; pero la felicidad es diferente. La alegría no es circunstancial, la felicidad sí lo es”, mencionaba la banda en su página web oficial.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FjxQkL_ed7M?si=bh3a6OuSoWaYo2Ni" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Un mantra que los fans de Twenty Øne Pilots conocen ya mejor que nadie
+Para Joseph y Dun el nombre de la banda es un recordatorio de no tomar el camino fácil en la vida, pues al final uno sabrá que la decisión que tomó no fue sencilla, pero valió la pena. Un mensaje que TØP suele compartir a través de sus canciones que apoyan la idea de superar la depresión y encontrar tu propósito en la vida.
+
+Ya conociendo este dato no nos extraña que el éxito de Twenty Øne Pilots vaya más allá de sus logros en los charts de música. En realidad viene de una banda que empatiza con sus seguidores y les hace saber que pueden salir del agujero de la depresión. Pero sobre todo, que les recuerda la importancia de hacer lo correcto siempre y evitarse conflictos morales en el futuro. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mnF0mJrcdz8?si=aPTcv-4J4ZcN9IGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        
+Twenty One Pilots acaban de publicar “Clancy”, su séptimo álbum de estudio en quince años de trayectoria. La banda originaria de Ohio se ha caracterizado, desde su formación en 2009, por su versatilidad y eclecticismo: su capacidad para reinventarse y desafiar las barreras entre géneros musicales ha sido lo que les ha permitido mantenerse relevantes en una industria en constante evolución. El dúo, conformado por Tyler Joseph y Josh Dun, no lanzaba nuevo álbum desde “Scaled and Icy”: “Clancy” pone un punto y final a la última etapa de la banda, que comenzaba en 2015 con “Blurryface”.
+
+Con su séptimo trabajo, Twenty One Pilots ofrece un producto que combina elementos familiares con dosis de innovación: esta ha sido la esencia que los ha convertido en un fenómeno musical de talla mundial, que no es ni más ni menos que su eclecticismo constante. Desde “Overcompensate” hasta “Paladin Strait”, los trece temas del disco establecen un nuevo capítulo en el relato del personaje principal de sus últimos cuatro álbumes, pero también abordan temas de identidad, resiliencia y autenticidad a través de su particular mix de rock, hip-hop, synthpop y otros géneros variopintos. Exploramos y desgranamos “Clancy” en los siguientes apartados:
+
+La narrativa
+“Clancy” cierra una historia que comenzó hace nueve años. El 17 de mayo de 2015, Twenty One Pilots lanzó “Blurryface”, su primer disco conceptual y el comienzo de una tetralogía que acaba este año: los americanos llevan casi una década publicando por fascículos una ficción alegórica sobre salud mental, dudas, muerte o fe. En los cuatro álbumes que conforman la saga, la trama sigue la historia de un protagonista atrapado en un ciclo interminable en la ciudad de Dema, ubicada en el continente de Trench (que da título a su disco de 2018). El protagonista es un fugitivo que constantemente intenta escapar de su opresivo entorno, pero siempre es encontrado por un líder llamado Nico, también conocido como Blurryface, quien representa una autoridad religiosa en la ciudad. Dema está gobernada por nueve obispos que promueven la autodestrucción como un camino hacia el paraíso, y Clancy (su protagonista), narra sus intentos de escapar y su encuentro con un grupo rebelde llamado los Banditos. En última instancia, la historia explora temas de libertad, resistencia y redención en un mundo dominado por la opresión y la manipulación. Su último álbum, “Scaled And Icy” es un anagrama de “Clancy is Dead”, e incluso hay referencias dentro del relato a “Vessel” (2013), su segundo álbum.
+
+
+
+Las temáticas
+Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
+
+
+
+El sonido
+Dentro del eclecticismo al que acostumbran, también hay cierta innovación en su nuevo trabajo. Así, hay synth-pop festivalero en “Navigating”, una balada a ukelele en “The Craving (Jenna’s Version)”, influencias de The Chemical Brothers en “Overcompensate”, de Keane en “Next Semester” o de Gorillaz en “Backslide”. Lo virtuoso en Twenty One Pilots no radica en el amplio número de sus referentes, sino en la gracilidad que tienen a la hora de establecer sus nexos, incluso, en una misma canción: dentro de “Lavish” hay chill-hop y disco, y en “At The Risk Of Feeling Dumb” mezclan el hip-hop y el emocore con el synth-pop. Sin embargo, todas y cada una de las canciones suenan extremadamente asequibles para el público general: nada en “Clancy” suena experimental, sino increíblemente popular </p>
 </body>
 </html>
