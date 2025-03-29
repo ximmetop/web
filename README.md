@@ -11,8 +11,33 @@ Inicalmente, la banda tocó en clubes y pequeñas salas del área de Columbus, a
 La banda lanzó de forma independiente dos álbumes, Twenty One Pilots (2009) y Regional at Best (2011), antes de firmar con el sello discográfico Fueled by Ramen en 2012. Su debut en el sello, Vessel , fue lanzado en 2013 y se convirtió en el segundo álbum de la historia. en el que cada pista recibió al menos una certificación de oro, convirtiendo a Twenty One Pilots en la primera banda en la historia de la música en ver cada canción en dos álbumes ganar premios de oro o platino.
 
 Este éxito se multiplicó con su cuarto álbum, Blurryface (2015). A este le siguió Trench (2018) y Scaled and Icy , lanzado el 21 de mayo de 2021.
-
-
+tml
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            margin: 0;
+            height: 100vh;
+            background: linear-gradient(to bottom, red, yellow, black);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenido a mi página web</h1>
+    <img src="tu_imagen.jpg" alt="Descripción de la imagen">
+</body>
+</html>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=pSt2mpeU0LHmn1x7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/53tgVlXBZVg?si=ymUu87G_FssFBwBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 https://images.app.goo.gl/GjsLHbH3U6tPUumw9
