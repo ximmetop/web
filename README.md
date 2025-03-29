@@ -55,17 +55,9 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
         h2 {
             font-size: 1.5em;
             color: #000000; /* Color negro para el subtítulo */
+
         }
-        .info-area {
-            margin-top: 20px;
-            padding: 10px;
-            border: 1px solid #000000; /* Borde negro para el área de información */
-            background-color: #FFFFFF; /* Fondo blanco para el área de texto */
-            width: 80%; /* Ancho del área de texto */
-            margin-left: auto; /* Alinear al centro */
-            margin-right: auto; /* Alinear al centro */
-        }
-    </style>
+  </style>
 </head>
 <body>
    <h1>TWENTY ONE PILOTS</h1>
