@@ -135,7 +135,8 @@ img {
 <table>
   <tr>
     <td><a href="#"><img src="![21-pilots-2](https://github.com/user-attachments/assets/070ac2c9-8990-4730-a8ba-0f0bcefd345f)
-" alt="Imagenesh"></a></td>
+" alt="![a0K5J000000ZJOcUAO_700x700](https://github.com/user-attachments/assets/c4b6866b-39af-4c8f-ad5c-951460bc2ca1)
+"></a></td>
     <td><a href="#"><img src="![15125-1024x580](https://github.com/user-attachments/assets/40f92e02-e800-4868-9a64-44b8e2df304b)
 " alt="Imagen 2"></a></td>
     <td><a href="#"><img src="![a0K5J000000ZJOcUAO_700x700](https://github.com/user-attachments/assets/c5e289bf-22c7-472b-be41-870d26c37d27)
