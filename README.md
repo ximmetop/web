@@ -1,6 +1,4 @@
-#los tueniss
-
-  <html lang="es">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,7 +12,7 @@
             justify-content: center;
             align-items: center;
             font-family: 'Roboto', sans-serif;
-            color: white; /* Color del texto */
+         color: white; /* Color del texto */
             text-align: center;
         }
         h1 {
@@ -29,8 +27,8 @@
 </head>
 <body>
        
-  <h1>twenty one pilots</h1>
-        <p> conoceremos a twenty one pilots!</p>
+  <h1>twenty one pilots</h1
+                         <p> conoceremos a twenty one pilots!</p>
 </body>
 </html>
    
@@ -59,32 +57,14 @@ Discográfica(s): Fueled by Ramen; Elektra; Atlantic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z5SYZq8n6Q0?si=8LN9e9cg1ejhcWfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+“Clancy” cierra una historia que comenzó hace nueve años. El 17 de mayo de 2015, Twenty One Pilots lanzó “Blurryface”, su primer disco conceptual y el comienzo de una tetralogía que acaba este año: los americanos llevan casi una década publicando por fascículos una ficción alegórica sobre salud mental, dudas, muerte o fe. En los cuatro álbumes que conforman la saga, la trama sigue la historia de un protagonista atrapado en un ciclo interminable en la ciudad de Dema, ubicada en el continente de Trench (que da título a su disco de 2018). El protagonista es un fugitivo que constantemente intenta escapar de su opresivo entorno, pero siempre es encontrado por un líder llamado Nico, también conocido como Blurryface, quien representa una autoridad religiosa en la ciudad. Dema está gobernada por nueve obispos que promueven la autodestrucción como un camino hacia el paraíso, y Clancy (su protagonista), narra sus intentos de escapar y su encuentro con un grupo rebelde llamado los Banditos. En última instancia, la historia explora temas de libertad, resistencia y redención en un mundo dominado por la opresión y la manipulación. Su último álbum, “Scaled And Icy” es un anagrama de “Clancy is Dead”, e incluso hay referencias dentro del relato a “Vessel” (2013), su segundo álbum.
+
+
+
+Las temáticas
+Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
+
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-
-
-  ¿Sabías que en sus conciertos usan máscaras o pasamontañas? La razón de esto es porque Tyler y Josh quieren que en sus conciertos la gente se sienta identificada con sus canciones, no se trata de cómo se ven, se trata de su música y sus letras.
-
-25 datos sobre twenty one pilots-[BIC]. :
-[ICU] :sparkles: ¡Es
-2. Su canción "Car Radio", del álbum Vessel, surgió de una historia real de Tyler. Un día cuando llegó tarde a la universidad olvidó cerrar la puerta de su auto, cuando volvió le habían robado la radio, al subirse al auto para volver a su casa no le quedó otra que conducir en silencio, ahí fue cuando se dio cuenta de que la música es una distracción perfecta para impedir que nuestra mente vaya a lugares en los que no debería estar.
-
-25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
-
-[ICU] :sparkles: ¡Es
-3. Todo su álbum Blurryface narra la historia de cómo uno mismo puede corromperse con sus inseguridades, luego luchar contra ellas dejando los malos resultados.
-
-25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
-
-[ICU] :sparkles: ¡Es
-4. Tyler tuvo una buena infancia, nunca tuvo un historial de haber tenido un comportamiento errático, mas aya de haber sido criado en una familia cristiana. Como dijo en su canción "Lane Boy": "No es necesario ser o haber sido problemático para ser un músico exitoso"
-
-25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. 
-
-[ICU] :sparkles: ¡Es
-5. La razón por la que Josh se pinta los ojos de rojo y Tyler se pinta el cuello y las manos de negro en sus conciertos es algo muy dramático que los ayuda a entrar mejor en el personaje de su álbum "Blurryface"
-
-25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
-
 
 
