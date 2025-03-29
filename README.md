@@ -4,7 +4,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página con Título y Subtítulo</title>
     <style>
-        body {Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011. Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
+
+
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+       
+body {Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011. Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
 Origen: Columbus
 
 Género(s): hip hop alternativo; electropop; rock alternativo; rap rock; indie pop; pop rock;
@@ -34,15 +39,8 @@ Las temáticas
 Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            margin: 0;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            background: linear-gradient(to bottom, #FF0000, #FFD600); /* Fondo rojo y amarillo */
-            color: #000000; /* Texto en color negro */
-        }
-        h1 {
+
+ h1 {
             font-size: 2.5em;
             color: #000000; /* Color negro para el título */
         }
@@ -98,8 +96,10 @@ tml
 
 “Clancy” cierra una historia que comenzó hace nueve años. El 17 de mayo de 2015, Twenty One Pilots lanzó “Blurryface”, su primer disco conceptual y el comienzo de una tetralogía que acaba este año: los americanos llevan casi una década publicando por fascículos una ficción alegórica sobre salud mental, dudas, muerte o fe. En los cuatro álbumes que conforman la saga, la trama sigue la historia de un protagonista atrapado en un ciclo interminable en la ciudad de Dema, ubicada en el continente de Trench (que da título a su disco de 2018). El protagonista es un fugitivo que constantemente intenta escapar de su opresivo entorno, pero siempre es encontrado por un líder llamado Nico, también conocido como Blurryface, quien representa una autoridad religiosa en la ciudad. Dema está gobernada por nueve obispos que promueven la autodestrucción como un camino hacia el paraíso, y Clancy (su protagonista), narra sus intentos de escapar y su encuentro con un grupo rebelde llamado los Banditos. En última instancia, la historia explora temas de libertad, resistencia y redención en un mundo dominado por la opresión y la manipulación. Su último álbum, “Scaled And Icy” es un anagrama de “Clancy is Dead”, e incluso hay referencias dentro del relato a “Vessel” (2013), su segundo álbum.
 Las temáticas
-Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
- <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             
+Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+
+
