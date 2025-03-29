@@ -134,9 +134,12 @@ img {
 
 <table>
   <tr>
-    <td><a href="#"><img src="C:\Users\pc\OneDrive\Documentos\practica 15\1-1.jpg" alt="Imagen 1"></a></td>
-    <td><a href="#"><img src="imagen2.jpg" alt="Imagen 2"></a></td>
-    <td><a href="#"><img src="imagen3.jpg" alt="Imagen 3"></a></td>
+    <td><a href="#"><img src="![21-pilots-2](https://github.com/user-attachments/assets/070ac2c9-8990-4730-a8ba-0f0bcefd345f)
+" alt="Imagenesh"></a></td>
+    <td><a href="#"><img src="![15125-1024x580](https://github.com/user-attachments/assets/40f92e02-e800-4868-9a64-44b8e2df304b)
+" alt="Imagen 2"></a></td>
+    <td><a href="#"><img src="![a0K5J000000ZJOcUAO_700x700](https://github.com/user-attachments/assets/c5e289bf-22c7-472b-be41-870d26c37d27)
+" alt="Imagen 3"></a></td>
     <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
   </tr>
   <tr>
@@ -157,16 +160,9 @@ img {
     <td><a href="#"><img src="imagen15.jpg" alt="Imagen 15"></a></td>
     <td><a href="#"><img src="imagen16.jpg" alt="Imagen 16"></a></td>
    </tr> 
-   <tr>
-    <td><a href="#"><img src="" alt="Imagen 17"></a></td>
-    <td><a href="#"><img src="imagen18.jpg" alt="Imagen 18"></a></td>
-    <td><a href="#"><img src="imagen19.jpg" alt="Imagen 19"></a></td>
-    <td><a href="#"><img src="imagen20.jpg" alt="Imagen 20"></a></td> 
-   </tr> 
+
 </table>
 
 </body>
-</html>
-```
 
 
