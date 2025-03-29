@@ -1,10 +1,7 @@
 #los tueniss
-
-
- <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-
   
    <h1>hoy hablaremos de twenty one pilots y su creacion </h1>
+   
 hablaremos de twenty one pilots el cual es una banda conocida y postearemos el por que son solo dos si se llaman 21 pilots
 Twenty One Pilots (estilizado como twenty øne piløts) es un dúo musical estadounidense cuyo estilo combina el hiphop, el metal y el rock independiente.
 Después de distintos cambios de alineación en sus orígenes, está formado desde 2011 por Tyler Joseph y Josh Dun.
@@ -29,7 +26,6 @@ Instrumentalmente, Twenty One Pilots tiene una mezcla de piano (algunas veces un
 Empezó en: 2009
 Discográfica(s): Fueled by Ramen; Elektra; Atlantic
 
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -64,3 +60,6 @@ Discográfica(s): Fueled by Ramen; Elektra; Atlantic
     </div>
 </body>
 </html>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+
