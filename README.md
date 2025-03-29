@@ -41,18 +41,33 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
 
 
  h1 {
-            font-size: 2.5em;
-            color: #000000; /* Color negro para el título */
+ font-size: 2.5em;
+  color: #000000; /* Color negro para el título */
         }
         hr {
             border: 0;
-            height: 2px;
+           height: 2px;
             background-color: #000000; /* Color negro para la separación */
             margin: 20px 0; /* Espaciado arriba y abajo */
         }
         h2 {
             font-size: 1.5em;
             color: #000000; /* Color negro para el subtítulo */
+  h1 {
+            font-size: 2.5em;
+            color: #D50000; /* Color rojo */
+        }
+        hr {
+            border: 0;
+            height: 2px;
+            background-color: #FFD600; /* Color amarillo */
+            margin: 20px 0; /* Espaciado arriba y abajo */
+        }
+        h2 {
+            font-size: 1.5em;
+            color: #D50000; /* Color rojo */
+        }
+    </style>
 
         }
   </style>
@@ -61,10 +76,8 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
    <h1>TWENTY ONE PILOTS</h1>
    <hr> <!-- Línea de separación -->
    <h2>LOS 21 PILOTOS</h2>
-    
-    <div class="info-area">
-        <textarea rows="10" cols="50" placeholder="Escribe aquí tu información..."></textarea>
-    </div>
+
+   </div>
 </body>
 </html>
 ``
