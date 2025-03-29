@@ -1,9 +1,10 @@
+--
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página con Título y Subtítulo</title>
-    <style>
 
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -76,7 +77,7 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
    <hr> <!-- Línea de separación -->
    <h2>LOS 21 PILOTOS</h2>
 
-   </div>
+
 </body>
 </html>
 ``
@@ -113,8 +114,7 @@ Las temáticas
             
 Dentro del trabajo, podemos dividir las canciones en aquellas que describen de lleno el relato ficticio ideado por la formación y otras más metafóricas, en las que tratan pensamientos internos a través de la sensibilidad. El primero es el caso de “Overcompensate” (“Esta pequeña y aterradora isla me ha convertido en un arma, ambos creemos que podemos usarla para cambiar el rumbo de esta guerra, bienvenidos de vuelta a Trench”), o “Paladin Strait” (“En el suelo hay bandidos luchando mientras encuentro a Nico (…) estoy más allá del punto de no retorno. Sube a lo alto de la torre, ¡Muéstrate! grito más fuerte”). En el otro grupo, Tyler Joseph y Josh Dun reflexionan sobre la depresión y la ansiedad, como temáticas que ya vienen siendo recurrentes en sus trabajos: este es el caso de “Next Semester”, sobre el suicidio (“Recé para que esas luces me llevaran a casa, entonces oí: ¡Eh, chico, sal de la carretera!”) o “The Craving (Jenna’s Version)” sobre el miedo al futuro (“No sé por qué no puedo dejar de llorar, temo estar envejeciendo y todavía no sé mucho de ti”). Para acompañar la narrativa, el trabajo cuenta con trece videoclips diferentes, uno por cada tema del álbum.
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
-html
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -128,9 +128,7 @@ html
     </style>
 </head>
 <body>
-    <h1>¡Bienvenido a mi página!</h1>
-    <p>El fondo es de color amarillo y rojo claro.</p>
+    <h1>ESTO FUE TWENTY ONE PILOTS!</h1>
 </body>
-</html>
 
 
