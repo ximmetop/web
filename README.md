@@ -1,10 +1,13 @@
-
- <h1>TWENTY ONE PILOTS</h1>
- 
-Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011.​ Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página con Título y Subtítulo</title>
+    <style>
+        body {Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011. Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
 Origen: Columbus
 
-Género(s): hip hop alternativo; electropop; rock alternativo; rap rock; indie pop; pop rock​;
+Género(s): hip hop alternativo; electropop; rock alternativo; rap rock; indie pop; pop rock;
 Es difícil categorizar a la banda usando solamente un género, ya que encajan dentro de varios. Se ha atribuido esto parcialmente al hecho de que, tanto Joseph como Dun, son músicos autodidactas, lo que implica que mientras producen su trabajo rompen muchas convenciones musicales de las que no son conscientes, incluyendo estar confinado a un único género.
 Instrumentalmente, Twenty One Pilots tiene una mezcla de piano (algunas veces un teclado eléctrico o una keytar), sintetizadores, batería (también mezclada con batería eléctrica en algunas partes), voz y ocasionalmente ukelele, trompetas, pandero o bajo. Líricamente, sus canciones son escritas por Joseph, quién incorpora tanto rap como canto en sus letras. El periodista de música Carl Wilson ha notado que el rap de Joseph es comparado a menudo con el de Macklemore, pero escribió: «entre los raperos blancos después de Eminem, encuentro a Joseph más penetrante, sardónico y expresivo». Joseph ha dicho que nunca pretendía ser rapero, pero que al intentar encajar poesía, sobre todo cuando es demasiado larga, necesita empezar a rapear para hacer encajar las letras.
 Empezó en: 2009
@@ -32,58 +35,48 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RESCATE CLORINE</title>
-    <style>
-        body {
             margin: 0;
             padding: 20px;
             font-family: Arial, sans-serif;
             text-align: center;
+            background: linear-gradient(to bottom, #FF0000, #FFD600); /* Fondo rojo y amarillo */
+            color: #000000; /* Texto en color negro */
         }
         h1 {
             font-size: 2.5em;
-            color:#000000; /* Color rojo */
+            color: #000000; /* Color negro para el título */
         }
         hr {
             border: 0;
             height: 2px;
-            background-color: #FFD600; /* Color amarillo */
+            background-color: #000000; /* Color negro para la separación */
             margin: 20px 0; /* Espaciado arriba y abajo */
         }
         h2 {
             font-size: 1.5em;
-            color:#000000; /* Color rojo */
+            color: #000000; /* Color negro para el subtítulo */
+        }
+        .info-area {
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #000000; /* Borde negro para el área de información */
+            background-color: #FFFFFF; /* Fondo blanco para el área de texto */
+            width: 80%; /* Ancho del área de texto */
+            margin-left: auto; /* Alinear al centro */
+            margin-right: auto; /* Alinear al centro */
         }
     </style>
 </head>
 <body>
-
-<style>
-        body {
-            margin: 2;
-            height: 100vh;
-            background: linear-gradient(to bottom, yellow, red);
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-family: 'Roboto', sans-serif;
-         color: white; /* Color del texto */
-            text-align: center;
-        }
-        h1 {
-            font-size: 3em;
-            font-weight: 700; /* Negrita */
-        }
-        p {
-            font-size: 1.5em;
-            font-weight: 400; /* Normal */
-        }
-    </style>
+   <h1>TWENTY ONE PILOTS</h1>
+   <hr> <!-- Línea de separación -->
+   <h2>LOS 21 PILOTOS</h2>
+    
+    <div class="info-area">
+        <textarea rows="10" cols="50" placeholder="Escribe aquí tu información..."></textarea>
+    </div>
 </body>
 </html>
-   
+``
 
+   
