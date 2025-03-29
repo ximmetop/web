@@ -134,7 +134,7 @@ img {
 
 <table>
   <tr>
-    <td><a href="#"><img src="imagenes" alt="[![1-1.jpg](https://i.postimg.cc/GmGtSRPs/1-1.jpg)](https://postimg.cc/TK2TpZ4R)"></a></td>
+    <td><a href="#"><img src="imagenes" alt="practica 15"></a></td>
     <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
   </tr>
   <tr>
