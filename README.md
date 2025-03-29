@@ -1,33 +1,6 @@
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RESCATE CLORINE</title>
-    <style>
-        body {
-            margin: 0;
-            padding: 20px;
-            font-family: Arial, sans-serif;
-            text-align: center;
-        }
-        h1 {
-            font-size: 2.5em;
-            color:#000000; /* Color rojo */
-        }
-        hr {
-            border: 0;
-            height: 2px;
-            background-color: #FFD600; /* Color amarillo */
-            margin: 20px 0; /* Espaciado arriba y abajo */
-        }
-        h2 {
-            font-size: 1.5em;
-            color:#000000; /* Color rojo */
-        }
-    </style>
-</head>
-<body>
-    <h1>TWENTY ONE PILOTS</h1>
+
+ <h1>TWENTY ONE PILOTS</h1>
+ 
 Twenty One Pilots es un dúo musical estadounidense de Columbus, Ohio. La banda se formó en 2009 por el vocalista Tyler Joseph junto con Nick Thomas y Chris Salih, quienes la abandonaron en 2011.​ Desde su partida, la formación ha consistido en el cantante Tyler Joseph y el baterista Josh Dun
 Origen: Columbus
 
@@ -59,7 +32,35 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nky4me4NP70?si=jZcLxeEZHvSPBNXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESCATE CLORINE</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 20px;
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            color:#000000; /* Color rojo */
+        }
+        hr {
+            border: 0;
+            height: 2px;
+            background-color: #FFD600; /* Color amarillo */
+            margin: 20px 0; /* Espaciado arriba y abajo */
+        }
+        h2 {
+            font-size: 1.5em;
+            color:#000000; /* Color rojo */
+        }
+    </style>
+</head>
+<body>
 
 <style>
         body {
@@ -82,11 +83,6 @@ Dentro del trabajo, podemos dividir las canciones en aquellas que describen de l
             font-weight: 400; /* Normal */
         }
     </style>
-</head>
-<body>
-       
-  <h1>twenty one pilots</h1
-                         <p> conoceremos a twenty one pilots!</p>
 </body>
 </html>
    
