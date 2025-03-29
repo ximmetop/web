@@ -134,7 +134,7 @@ img {
 
 <table>
   <tr>
-    <td><a href="#"><img src="Archivo JPG (.jpg)" alt="Archivo JPG (.jpg)"></a></td>
+    <td><a href="C:\Users\pc\OneDrive\Documentos\practica 15\indexx2.html"><img src="Twenty-One-Pilots-1-1" alt="imagen foto"></a></td>
   <td><a href="#"><img src="imagenes" alt="practica 15"></a></td>
     <td><a href="#"><img src="imagenes" alt="practica 15"></a></td>
     <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
