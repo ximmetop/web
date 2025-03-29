@@ -1,5 +1,3 @@
-html
-<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +13,8 @@ html
 <body>
     <h1>¡twenty one pilots!</h1>
     <p> Twenty Øne Pilots empezó hace 12 años Como bien saben –sino acá les contamos–, Twenty Øne Pilots es una agrupación que se formó en la ciudad estadounidense de Columbus, en Ohio, por allá del año 2009. La banda comenzó formalmente como un trío conformado por Tyler Joseph, Nick Thomas y Chris Salih, estudiantes universitarios que comenzaron a buscar patrocinios y lugares donde pudieran tocar para darse a conocer.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ktBMxkLUIwY?si=bAZWea13Yq7bt03x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Aunque a finales de ese mismo año Twenty Øne Pilots (conocidos como TØP, por sus siglas en inglés) lanzó un disco debut homónimo, fue hasta el año 2011 cuando la alineación cambió radicalmente con la salida de Nick y Chris, quienes le dejaron el paso libre a Josh Dun, el baterista de la banda e inseparable amigo de Tyler Joseph.
 
