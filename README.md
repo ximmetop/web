@@ -62,3 +62,56 @@ El sonido
 Dentro del eclecticismo al que acostumbran, también hay cierta innovación en su nuevo trabajo. Así, hay synth-pop festivalero en “Navigating”, una balada a ukelele en “The Craving (Jenna’s Version)”, influencias de The Chemical Brothers en “Overcompensate”, de Keane en “Next Semester” o de Gorillaz en “Backslide”. Lo virtuoso en Twenty One Pilots no radica en el amplio número de sus referentes, sino en la gracilidad que tienen a la hora de establecer sus nexos, incluso, en una misma canción: dentro de “Lavish” hay chill-hop y disco, y en “At The Risk Of Feeling Dumb” mezclan el hip-hop y el emocore con el synth-pop. Sin embargo, todas y cada una de las canciones suenan extremadamente asequibles para el público general: nada en “Clancy” suena experimental, sino increíblemente popular </p>
 </body>
 </html>
+<head>
+<title>twenty one pilots</title>
+<style>
+body {
+  font-family: sans-serif;
+  background-color: #222; /* Color de fondo oscuro */
+  color: #eee; /* Color de texto claro */
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #333; /* Borde de las celdas */
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.social-icons {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.social-icon {
+    width: 50px;
+    height: 50px;
+}
+
+</style>
+</head>
+<body>
+
+<h1>twenty</h1>
+
+<table>
+  <tr>
+    <td rowspan="3">
+      <a href="#"> <img src="imagen1.jpg" alt="Imagen 1"></a> 
+    </td>
+    <td colspan="2">
+      <img src="imagen" alt="twenty" style="max-width:100%; height:auto;"> 
+    </td>
+  </tr>
+  <tr>
+    <td>
+       <a href="#"> <img src="imagen2.jpg" alt="Imagen 2"></a> 
+    </td>
+    <td>
+      <a href="#"> <img src="imagen3.jpg" alt="Imagen 3"></a>
+      
