@@ -134,11 +134,7 @@ img {
 
 <table>
   <tr>
-    <td><a href="#"><img src="![21-pilots-2](https://github.com/user-attachments/assets/070ac2c9-8990-4730-a8ba-0f0bcefd345f)
-" alt="![a0K5J000000ZJOcUAO_700x700](https://github.com/user-attachments/assets/c4b6866b-39af-4c8f-ad5c-951460bc2ca1)
-"></a></td>
-    <td><a href="#"><img src="![15125-1024x580](https://github.com/user-attachments/assets/40f92e02-e800-4868-9a64-44b8e2df304b)
-" alt="Imagen 2"></a></td>
+    <td><a href="#"><img src="https://1drv.ms/i/c/02acdb2e3a690072/EeXpVA8j8xlHgbeuXZy2EIQBO5ifeiKr7R9X_ahOwQv3gw?e=J1JUvL" alt="https://1drv.ms/i/c/02acdb2e3a690072/EeXpVA8j8xlHgbeuXZy2EIQBO5ifeiKr7R9X_ahOwQv3gw?e=J1JUvL"></a></td>
     <td><a href="#"><img src="![a0K5J000000ZJOcUAO_700x700](https://github.com/user-attachments/assets/c5e289bf-22c7-472b-be41-870d26c37d27)
 " alt="Imagen 3"></a></td>
     <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
