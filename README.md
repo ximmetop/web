@@ -1,4 +1,5 @@
 #los tueniss
+
   <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -27,10 +28,9 @@
     </style>
 </head>
 <body>
-    <div>
-        <h1>twenty one pilots</h1>
+       
+  <h1>twenty one pilots</h1>
         <p> conoceremos a twenty one pilots!</p>
-    </div>
 </body>
 </html>
    
