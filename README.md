@@ -34,6 +34,9 @@
 </body>
 </html>
    
+TWENTY ONE PILOTS TU NUEVO ESTILO DE VIDA-PROYECTO 21
+
+
 hablaremos de twenty one pilots el cual es una banda conocida y postearemos el por que son solo dos si se llaman 21 pilots
 Twenty One Pilots (estilizado como twenty øne piløts) es un dúo musical estadounidense cuyo estilo combina el hiphop, el metal y el rock independiente.
 Después de distintos cambios de alineación en sus orígenes, está formado desde 2011 por Tyler Joseph y Josh Dun.
@@ -58,4 +61,30 @@ Discográfica(s): Fueled by Ramen; Elektra; Atlantic
 
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/xn3Easfz_e8?si=h74Sm_Cp7TS9HaV2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>   
+
+
+  ¿Sabías que en sus conciertos usan máscaras o pasamontañas? La razón de esto es porque Tyler y Josh quieren que en sus conciertos la gente se sienta identificada con sus canciones, no se trata de cómo se ven, se trata de su música y sus letras.
+
+25 datos sobre twenty one pilots-[BIC]. :
+[ICU] :sparkles: ¡Es
+2. Su canción "Car Radio", del álbum Vessel, surgió de una historia real de Tyler. Un día cuando llegó tarde a la universidad olvidó cerrar la puerta de su auto, cuando volvió le habían robado la radio, al subirse al auto para volver a su casa no le quedó otra que conducir en silencio, ahí fue cuando se dio cuenta de que la música es una distracción perfecta para impedir que nuestra mente vaya a lugares en los que no debería estar.
+
+25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
+
+[ICU] :sparkles: ¡Es
+3. Todo su álbum Blurryface narra la historia de cómo uno mismo puede corromperse con sus inseguridades, luego luchar contra ellas dejando los malos resultados.
+
+25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
+
+[ICU] :sparkles: ¡Es
+4. Tyler tuvo una buena infancia, nunca tuvo un historial de haber tenido un comportamiento errático, mas aya de haber sido criado en una familia cristiana. Como dijo en su canción "Lane Boy": "No es necesario ser o haber sido problemático para ser un músico exitoso"
+
+25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. 
+
+[ICU] :sparkles: ¡Es
+5. La razón por la que Josh se pinta los ojos de rojo y Tyler se pinta el cuello y las manos de negro en sus conciertos es algo muy dramático que los ayuda a entrar mejor en el personaje de su álbum "Blurryface"
+
+25 datos sobre twenty one pilots-[BIC]¡Hola hola Skeletøns! esta vez les traigo 25 datos sobre twenty one pilots. :
+
+
 
