@@ -99,19 +99,74 @@ img {
 
 <h1>twenty</h1>
 
+<head>
+<title>Tabla de Imágenes</title>
+<style>
+body {
+  font-family: Arial, sans-serif; /* Cambia la fuente a Arial */
+  background-color: #f0f0f0; /* Color de fondo claro */
+  color: #000; /* Color de texto negro */
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #ccc; /* Borde de las celdas */
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.custom-text {
+    font-family: 'Courier New', Courier, monospace; /* Cambia la fuente a Courier */
+    font-size: 18px; /* Tamaño de la letra */
+    color: #000; /* Color de texto negro */
+}
+
+</style>
+</head>
+<body>
+
+<h1 class="custom-text">twenty one pilots</h1>
+
 <table>
   <tr>
-    <td rowspan="3">
-      <a href="#"> <img src="imagen1.jpg" alt="Imagen 1"></a> 
-    </td>
-    <td colspan="2">
-      <img src="imagen" alt="twenty" style="max-width:100%; height:auto;"> 
-    </td>
+    <td><a href="#"><img src="C:\Users\pc\OneDrive\Documentos\practica 15\1-1.jpg" alt="Imagen 1"></a></td>
+    <td><a href="#"><img src="imagen2.jpg" alt="Imagen 2"></a></td>
+    <td><a href="#"><img src="imagen3.jpg" alt="Imagen 3"></a></td>
+    <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
   </tr>
   <tr>
-    <td>
-       <a href="#"> <img src="imagen2.jpg" alt="Imagen 2"></a> 
-    </td>
-    <td>
-      <a href="#"> <img src="imagen3.jpg" alt="Imagen 3"></a>
-      
+    <td><a href="#"><img src="imagen5.jpg" alt="Imagen 5"></a></td>
+    <td><a href="#"><img src="imagen6.jpg" alt="Imagen 6"></a></td>
+    <td><a href="#"><img src="imagen7.jpg" alt="Imagen 7"></a></td>
+    <td><a href="#"><img src="imagen8.jpg" alt="Imagen 8"></a></td>
+  </tr>
+  <tr>
+    <td><a href="#"><img src="imagen9.jpg" alt="Imagen 9"></a></td>
+    <td><a href="#"><img src="imagen10.jpg" alt="Imagen 10"></a></td>
+    <td><a href="#"><img src="imagen11.jpg" alt="Imagen 11"></a></td>
+    <td><a href="#"><img src="imagen12.jpg" alt="Imagen 12"></a></td>
+  </tr>
+   <tr>
+    <td><a href="#"><img src="imagen13.jpg" alt="Imagen 13"></a></td>
+    <td><a href="#"><img src="imagen14.jpg" alt="Imagen 14"></a></td>
+    <td><a href="#"><img src="imagen15.jpg" alt="Imagen 15"></a></td>
+    <td><a href="#"><img src="imagen16.jpg" alt="Imagen 16"></a></td>
+   </tr> 
+   <tr>
+    <td><a href="#"><img src="" alt="Imagen 17"></a></td>
+    <td><a href="#"><img src="imagen18.jpg" alt="Imagen 18"></a></td>
+    <td><a href="#"><img src="imagen19.jpg" alt="Imagen 19"></a></td>
+    <td><a href="#"><img src="imagen20.jpg" alt="Imagen 20"></a></td> 
+   </tr> 
+</table>
+
+</body>
+</html>
+```
+
+
