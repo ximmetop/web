@@ -138,7 +138,7 @@ img {
   </tr>
   <tr>
     <td colspan="5" width="800" height="160">
-      <img src="31.jpg" width="800" height="160"> <!-- Nueva imagen -->
+      <img src="Twenty-One-Pilots-Overcompensate_1-1080x720.webp" width="800" height="160"> <!-- Nueva imagen -->
     </td>
   </tr>
 </table>
