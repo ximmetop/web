@@ -130,36 +130,6 @@ img {
 </head>
 <body>
 
-<h1 class="custom-text">twenty one pilots</h1>
-
-<table>
-  <tr>
-    <td><a href="Twenty-One-Pilots-1-1"><img src="Twenty-One-Pilots-1-1" alt="C:\Users\pc\OneDrive\Documentos\practica 15\indexx2.html"></a></td>
-  <td><a href="#"><img src="imagenes" alt="practica 15"></a></td>
-    <td><a href="#"><img src="imagenes" alt="practica 15"></a></td>
-    <td><a href="#"><img src="imagen4.jpg" alt="Imagen 4"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="imagen5.jpg" alt="Imagen 5"></a></td>
-    <td><a href="#"><img src="imagen6.jpg" alt="Imagen 6"></a></td>
-    <td><a href="#"><img src="imagen7.jpg" alt="Imagen 7"></a></td>
-    <td><a href="#"><img src="imagen8.jpg" alt="Imagen 8"></a></td>
-  </tr>
-  <tr>
-    <td><a href="#"><img src="imagen9.jpg" alt="Imagen 9"></a></td>
-    <td><a href="#"><img src="imagen10.jpg" alt="Imagen 10"></a></td>
-    <td><a href="#"><img src="imagen11.jpg" alt="Imagen 11"></a></td>
-    <td><a href="#"><img src="imagen12.jpg" alt="Imagen 12"></a></td>
-  </tr>
-   <tr>
-    <td><a href="#"><img src="imagen13.jpg" alt="Imagen 13"></a></td>
-    <td><a href="#"><img src="imagen14.jpg" alt="Imagen 14"></a></td>
-    <td><a href="#"><img src="imagen15.jpg" alt="Imagen 15"></a></td>
-    <td><a href="#"><img src="imagen16.jpg" alt="Imagen 16"></a></td>
-   </tr> 
-
-</table>
-
-</body>
-
+<td colspan="5" width="800"height="160">
+<img src="Archivo JPG (.jpg)" width="800" height"="160">
 
