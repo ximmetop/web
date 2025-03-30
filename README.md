@@ -130,8 +130,8 @@ img {
 </head>
 
 <td width="200" height="166">
-  <a target="_blank" href="practica 15">
-    <img src="twetyyssss Archivo JPG (.jpg)" width="200" height="166">
+  <a target="_blank" href="twetyyssss Archivo JPG (.jpg)">
+    <img src="practica 15" width="200" height="166">
     <img src="./fotitos/foto1.jpg" width="100" height="83">  <!-- Nueva imagen -->
     <img src="./fotitos/foto2.png" width="100" height="83">  <!-- Otra nueva imagen -->
   </a>
