@@ -129,17 +129,10 @@ img {
 </style>
 </head>
 
-<body>
-<table>
-  <tr>
-    <td colspan="5" width="800" height="160">
-      <img src="Archivo JPG (.jpg)" width="800" height="160">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="5" width="800" height="160">
-      <img src="Twenty-One-Pilots-Overcompensate_1-1080x720.webp" width="800" height="160"> <!-- Nueva imagen -->
-    </td>
-  </tr>
-</table>
-
+<td width="200" height="166">
+  <a target="_blank" href="practica 15">
+    <img src="Archivo JPG (.jpg)" width="200" height="166">
+    <img src="./fotitos/foto1.jpg" width="100" height="83">  <!-- Nueva imagen -->
+    <img src="./fotitos/foto2.png" width="100" height="83">  <!-- Otra nueva imagen -->
+  </a>
+</td>
