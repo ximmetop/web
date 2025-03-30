@@ -128,8 +128,18 @@ img {
 
 </style>
 </head>
-<body>
 
-<td colspan="5" width="800"height="160">
-<img src="Archivo JPG (.jpg)" width="800" height"="160">
+<body>
+<table>
+  <tr>
+    <td colspan="5" width="800" height="160">
+      <img src="Archivo JPG (.jpg)" width="800" height="160">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="5" width="800" height="160">
+      <img src="31.jpg" width="800" height="160"> <!-- Nueva imagen -->
+    </td>
+  </tr>
+</table>
 
