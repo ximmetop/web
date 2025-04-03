@@ -76,127 +76,126 @@
       <tr>
         <td rowspan="2" width="144" height="173">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.rollingstone.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022.jpg" width="144" height="179">
+            <img src="https://images.app.goo.gl/PVTnVURZnRLJ51Ak7" width="144" height="179">
           </a>
         </td>
         <td rowspan="2" width="144" height="166">
-          <iframe width="144" height="179" src="https://www.youtube.com/embed/U8fbsCZ6j4Q" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="179" src="https://youtu.be/6_GCsQRS3kM?si=6J0TAlYXYm5q-3Zj" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td rowspan="2" width="432" height="166" colspan="3">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.billboard.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022-billboard-1548.jpg" width="450" height="179">
+            <img src="https://images.app.goo.gl/HjqAGTetchL3jQDz5" width="450" height="179">
           </a>
         </td>
         <td rowspan="2" width="144" height="166">
           <iframe width="144" height="180" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td rowspan="2" width="144" height="166">
-          <img src="https://images.genius.com/3a1d5f6a4c1c3f4e4e5e4e4e4e4e4.1000x1000x1.jpg" width="144" height="179">
+          <img src="https://images.app.goo.gl/HjqAGTetchL3jQDz5" width="144" height="179">
         </td>
         <td rowspan="2" width="144" height="166">
-     <iframe width="144" height="179" src="https://www.youtube.com/embed/7X7Z1l8Z8k" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+     <iframe width="144" height="179" src="https://youtu.be/iE_54CU7Fxk?si=vYPOeD9Uf-lYVAs0" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
       </tr>
       <tr>
         <td width="144" height="83">
-          <iframe width="144" height="83" src="https://www.youtube.com/embed/3E8Vcc6ZZuM?si=YtXtXxQpbfSwyp-F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="83" src="https://youtu.be/a5i-KdUQ47o?si=_qkI761Q9p9sP89q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
       </tr>
       <tr>
         <td rowspan="3" width="144" height="166">
-          <img src="https://www.rollingstone.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022.jpg" width="144" height="185">
+          <img src="https://images.app.goo.gl/E6BJtXceoBcZurRP6" width="144" height="185">
         </td>
         <td rowspan="3" width="144" height="166">
-          <iframe width="144" height="185" src="https://www.youtube.com/embed/U8fbsCZ6j4Q" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="185" src="https://youtu.be/UOUBW8bkjQ4?si=HHw8kfeMhqDgqyW2" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td colspan="3" width="432" height="55">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.billboard.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022-billboard-1548.jpg" width="450" height="55">
+            <img src="https://images.app.goo.gl/Kc8b9vpvkFV1fSWj8" width="450" height="55">
           </a>
         </td>
         <td rowspan="3" width="144" height="166">
-          <iframe width="144" height="185" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="185" src="https://youtu.be/ywvRgGAd2XI?si=GUlhzFgIcbC-Vle4" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td rowspan="3" width="144" height="166">
-          <img src="https://images.genius.com/3a1d5f6a4c1c3f4e4e5e4e4e4e4e4.1000x1000x1.jpg" width="144" height="185">
+          <img src="https://images.app.goo.gl/Kc8b9vpvkFV1fSWj8" width="144" height="185">
         </td>
         <td rowspan="3" width="144" height="166">
-          <iframe width="144" height="185" src="https://www.youtube.com/embed/7X7Z1l8Z8k" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="185" src="https://youtu.be/ktBMxkLUIwY?si=vBp4piS7ldGjQXQb" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
       </tr>
       <tr>
         <td colspan="3" width="432" height="55">
-          <iframe width="450" height="55" src="https://www.youtube.com/embed/3E8Vcc6ZZuM?si=YtXtXxQpbfSwyp-F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="450" height="55" src="https://youtu.be/AupwoN8QvbU?si=qIM4QyjPfcHLK1PV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
       </tr>
       <tr>
         <td colspan="3" width="432" height="55">
-          <img src="https://www.rollingstone.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022.jpg" width="450" height="55">
+          <img src="https://images.app.goo.gl/sYoJjJxpiJCaCh5F6" width="450" height="55">
         </td>
       </tr>
       <tr>
         <td width="144" height="166">
-          <iframe width="144" height="185" src="https://www.youtube.com/embed/U8fbsCZ6j4Q" title="Twenty
-          Claro, aquí sigue el código:
+          <iframe width="144" height="185" src="https://youtu.be/bB99HA7fSWc?si=AKzV-YKg2VOA2J-c" title="Twenty
 
- <iframe width="144" height="185" src="https://www.youtube.com/embed/U8fbsCZ6j4Q" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="144" height="185" src="https://youtu.be/AupwoN8QvbU?si=7MdXPiddB59YMMW-" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.billboard.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022-billboard-1548.jpg" width="144" height="185">
+            <img src="https://images.app.goo.gl/D5TXSQw1N7feNDF96" width="144" height="185">
           </a>
         </td>
         <td width="432" height="166" colspan="3">
-          <iframe width="450" height="185" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="450" height="185" src="https://youtu.be/eJnQBXmZ7Ek?si=ZcAYzq3V-qZW8UM1" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
-          <img src="https://images.genius.com/3a1d5f6a4c1c3f4e4e5e4e4e4e4e4.1000x1000x1.jpg" width="144" height="185">
+          <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2F915fmradio.mx%2Fwp-content%2Fuploads%2F2024%2F05%2Fprincipal_twenty-one-pilots.jpg&tbnid=FKtqnfN2PbWx9M&vet=1&imgrefurl=https%3A%2F%2F915fmradio.mx%2Flanza-twenty-one-pilots-su-nuevo-album-clancy%2F&docid=keWTJnWj322pDM&w=770&h=423&hl=es-MX&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=cf94f00da47102a5" width="144" height="185">
         </td>
         <td width="144" height="166">
-          <iframe width="144" height="185" src="https://www.youtube.com/embed/7X7Z1l8Z8k" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="185" src="https://youtu.be/8mn-FFjIbo8?si=s17-w3Ny8HdVPUnH" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
-          <img src="https://www.rollingstone.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022.jpg" width="144" height="185">
+          <img src="https://images.app.goo.gl/GZWTe4i1wZjLNoxk8" width="144" height="185">
         </td>
       </tr>
       <tr>
         <td width="144" height="166">
-          <img src="https://images.genius.com/3a1d5f6a4c1c3f4e4e5e4e4e4e4e4.1000x1000x1.jpg" width="144" height="166">
+          <img src="https://images.app.goo.gl/noAaHjYDvetDEP7T8" width="144" height="166">
         </td>
         <td width="144" height="166">
-          <iframe width="144" height="166" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="166" src="https://youtu.be/flYgpeWsC2E?si=gCUeix8gLTx9UtMT" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.billboard.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022-billboard-1548.jpg" width="144" height="166">
+            <img src="https://images.app.goo.gl/7boYYzChCJDZaEs79" width="144" height="166">
           </a>
         </td>
         <td width="144" height="166">
-          <iframe width="144" height="166" src="https://www.youtube.com/embed/7X7Z1l8Z8k" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="166" src="https://youtu.be/07YtBj3BEBQ?si=asXM8JDx8OLu9osD" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="332" rowspan="2">
-          <iframe width="144" height="340" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  <iframe width="144" height="340" src="https://www.youtube.com/embed/3E8Vcc6ZZuM" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="340" src="https://youtu.be/r_9Kf0D5BTs?si=0AVbwGfb-iU8do5-" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  <iframe width="144" height="340" src="https://youtu.be/Pmv8aQKO6k0?si=ZcuwZNHptHBYaxqO" title="Twenty One Pilots - Ride (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.billboard.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022-billboard-1548.jpg" width="144" height="166">
+            <img src="https://images.app.goo.gl/8nLmUQELbjJimLzHA" width="144" height="166">
           </a>
         </td>
         <td width="144" height="166">
-          <iframe width="144" height="166" src="https://www.youtube.com/embed/7X7Z1l8Z8k" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="166" src="https://youtu.be/Pw-0pbY9JeU?si=KSCXY19ZQcudpnak" title="Twenty One Pilots - Stressed Out (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
       </tr>
       <tr>
         <td width="144" height="166">
-          <iframe width="144" height="166" src="https://www.youtube.com/embed/U8fbsCZ6j4Q" title="Twenty One Pilots - Heavydirtysoul (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+          <iframe width="144" height="166" src="https://youtu.be/UprcpdwuwCg?si=Znryar6tMHkpvrdv" title="Twenty one pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </td>
         <td width="144" height="166">
-          <img src="https://images.genius.com/3a1d5f6a4c1c3f4e4e5e4e4e4e4e4.1000x1000x1.jpg" width="144" height="166">
+          <img src="https://images.app.goo.gl/ZnhQzpWudVZEE4Ea8" width="144" height="166">
         </td>
         <td width="144" height="166">
           <a href="https://www.instagram.com/twentyonepilots/" target="_blank">
-            <img src="https://www.rollingstone.com/wp-content/uploads/2022/04/Twenty-One-Pilots-2022.jpg" width="144" height="166">
+            <img src="https://images.app.goo.gl/g9ZWgGL71MQLTvVx8" width="144" height="166">
           </a>
         </td>
       </tr>
@@ -212,25 +211,25 @@
             <a href="https://www.facebook.com/twentyonepilots" target="_blank">
               <i class="fab fa-facebook"></i>
             </a>
-            <a href="https://www.youtube.com/user/twentyonepilots" target="_blank">
-              <i class="fab fa-youtube"></i>
+            <a href="https://youtube.com/watch?v=pXRviuL6vMY&si=EcoU17FibEC6NM99" target="_blank">
+              <i class="fab fayoutube"></i>
             </a>
             <a href="https://www.tiktok.com/@twentyonepilots" target="_blank">
-              <i class="fab fa-tiktok"></i>
+              <i class="fab fatiktok"></i>
             </a>
           </div>
           <div class="music-platforms">
             <a href="https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1odx" target="_blank">
-              <i class="fab fa-spotify"></i>
+              <i class="fab faspotify"></i>
             </a>
             <a href="https://music.apple.com/us/artist/twenty-one-pilots/491680867" target="_blank">
               <i class="fab fa-apple"></i>
             </a>
             <a href="https://www.deezer.com/us/artist/1439669" target="_blank">
-              <i class="fab fa-deezer"></i>
+              <i class="fab fadeezer"></i>
             </a>
             <a href="https://music.amazon.com/artists/B004VJFHIW/twenty-one-pilots" target="_blank">
-              <i class="fab fa-amazon"></i>
+              <i class="fab faamazon"></i>
             </a>
           </div>
         </td>
@@ -238,4 +237,3 @@
     </table>
   </center>
 </body>
-</html>
